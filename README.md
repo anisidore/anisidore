@@ -27,10 +27,6 @@ High-velocity automation!
 Trained, certified, 4 x AWS  
 Tested, tried, ignore my flaws!  
 
-
-
-
-
 <!--
 **anisidore/anisidore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
