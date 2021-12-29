@@ -1,10 +1,10 @@
 ![Cloud Engineer/DevOps](https://user-images.githubusercontent.com/57046137/147709351-5f07724d-f429-4659-9bdf-276c7e2a1db3.png)
 ### Hi there 👋, I'm Ani Isidore...
 
-Long outcast, to and fro
-Back, at last, in Toronto
-Recast, fast, as a DevOps pro
-Remote, on-call, in teams, solo!
+Long outcast, to and fro  
+Back, at last, in Toronto  
+Recast, fast, as a DevOps pro  
+Remote, on-call, in teams, solo!  
 
 ## Skills
 
