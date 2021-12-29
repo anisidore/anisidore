@@ -6,26 +6,26 @@ Back, at last, in Toronto
 Recast, fast, as a DevOps pro  
 Remote, on-call, in teams, solo!  
 
-## Skills...
+#### Skills...
 
-...Flex these skills, legit, hands-on
-Linux, Bash, Git, Python
-Jenkins, Ansible, Cloud expertise
-Terraform, Docker, Kubernetes!
+...Flex these skills, legit, hands-on  
+Linux, Bash, Git, Python  
+Jenkins, Ansible, Cloud expertise  
+Terraform, Docker, Kubernetes!  
 
-## Experience...
+#### Experience...
 
-...Build Pipelines, for CICD
-Provision too, via IaC
-Monitor stacks, like an SRE
-A few more hacks, and that I'll be! 
+...Build Pipelines, for CICD  
+Provision too, via IaC  
+Monitor stacks, like an SRE  
+A few more hacks, and that I'll be!   
 
-## ...and More!
+#### ...and More!
 
-Across the city, evolution
-High-velocity automation!
-Trained, certified, 4 x AWS
-Tested, tried, ignore my flaws!
+Across the city, evolution  
+High-velocity automation!  
+Trained, certified, 4 x AWS  
+Tested, tried, ignore my flaws!  
 
 
 
