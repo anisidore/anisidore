@@ -1,15 +1,31 @@
-### Hi there 👋, Ani Isidore
-#### Cloud Engineer/DevOps
 ![Cloud Engineer/DevOps](https://user-images.githubusercontent.com/57046137/147709351-5f07724d-f429-4659-9bdf-276c7e2a1db3.png)
+### Hi there 👋, I'm Ani Isidore...
 
-DevOps Engineer with 10+ years experience in web apps/cloud. Covering specialist, broad, and/or multi-functional roles. 
+Long outcast, to and fro
+Back, at last, in Toronto
+Recast, fast, as a DevOps pro
+Remote, on-call, in teams, solo!
 
-Skills: Linux / Bash / Git / Python / Docker / Terraform / Kubernetes / Jenkins
+## Skills
 
-- 🔭 I’m currently working on this page. 
+Flex these skills, legit, hands-on
+Linux, Bash, Git, Python
+Jenkins, Ansible, Cloud expertise
+Terraform, Docker, Kubernetes!
 
+## Experience
 
+Build Pipelines, for CICD
+Provision too, via IaC
+Monitor stacks, like an SRE
+A few more hacks, and that I'll be! 
 
+## ...and More!
+
+Across the city, evolution
+High-velocity automation!
+Trained, certified, 4 x AWS
+Tested, tried, ignore my flaws!
 
 
 
