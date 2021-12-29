@@ -20,7 +20,7 @@ Provision too, via IaC
 Monitor stacks, like an SRE  
 A few more hacks, and that I'll be!   
 
-## ...and More!
+## TLDR;...
 
 Across the city, evolution  
 High-velocity automation!  
