@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Ani Isidore
+#### Cloud Engineer/DevOps
+![Cloud Engineer/DevOps](https://www.linkedin.com/in/anisidore/overlay/background-image/)
+
+DevOps Engineer with 10+ years experience in web apps/cloud. Covering specialist, broad, and/or multi-functional roles. 
+
+Skills: Linux / Bash / Git / Python / Docker / Terraform / Kubernetes / Jenkins
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 <!--
 **anisidore/anisidore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
