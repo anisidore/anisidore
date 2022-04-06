@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ani Isidore...
+# Hi, I'm Ani 👋
 
 ...Long outcast, to and fro  
 Back, at last, in Toronto  
