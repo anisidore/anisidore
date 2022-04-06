@@ -14,10 +14,10 @@ Terraform, Docker, Kubernetes!
 
 ## Experience...
 
-...Build Pipelines, for CICD  
-Provision too, via IaC  
-Monitor stacks, like an SRE  
-A few more hacks, and that I'll be!   
+...Built Pipelines, for CICD  
+Provisioned too, via IaC  
+Monitored stacks, like an SRE  
+A few more hacks, and done I'll be!   
 
 ## TLDR;...
 
